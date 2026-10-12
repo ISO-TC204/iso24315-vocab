@@ -37,6 +37,7 @@ Clause: 3.3.1
 - 3.3.1.29 — [transport-related user](../transport-related user.md)
 - 3.3.1.30 — [user-sourced data provider](../user-sourced data provider.md)
 - 3.3.1.31 — [vehicle-sourced data provider](../vehicle-sourced data provider.md)
+- 3.3.1.32 — [legislative body](../legislative body.md)
 
 ---
 

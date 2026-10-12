@@ -2,7 +2,7 @@
 
 # advisory
 
-[rule](rule.md) that provides a safety recommendation as established by a [regulator](regulator.md)
+[regulation](regulation.md) that provides a safety recommendation
 
 <object type="image/svg+xml" data="../../diagrams/advisory.dot.svg">
     <img alt="advisory Diagram" src="../../diagrams/advisory.dot.png" /> <!-- Fallback for non-SVG browsers -->
@@ -16,7 +16,7 @@ Note 1 to entry: While not having the full force of law, violating an advisory c
 
 | Property | Constraint |
 | --- | --- |
-| subClassOf | rule |
+| subClassOf | regulation |
 
 
 ---

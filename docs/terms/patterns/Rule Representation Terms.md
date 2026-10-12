@@ -6,10 +6,11 @@ Clause: 3.2.6
 
 ## Terms
 
-- 3.2.6.1 — [electronic rule](../electronic rule.md)
+- 3.2.6.1 — [electronic regulation](../electronic regulation.md)
 - 3.2.6.2 — [legal rule](../legal rule.md)
-- 3.2.6.3 — [METR rule](../METR rule.md)
-- 3.2.6.4 — [physical rule](../physical rule.md)
+- 3.2.6.3 — [METR regulation](../METR regulation.md)
+- 3.2.6.4 — [physical regulation](../physical regulation.md)
+- 3.2.6.5 — [legal regulation](../legal regulation.md)
 
 ---
 

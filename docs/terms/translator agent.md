@@ -2,7 +2,7 @@
 
 # translator agent
 
-[METR operator](METR operator.md) that interfaces with the [METR regulation system](METR regulation system.md) to enter [electronic rules](electronic rule.md)
+[METR operator](METR operator.md) that interfaces with the [METR regulation system](METR regulation system.md) to enter [electronic regulations](electronic regulation.md)
 
 <object type="image/svg+xml" data="../../diagrams/translator agent.dot.svg">
     <img alt="translator agent Diagram" src="../../diagrams/translator agent.dot.png" /> <!-- Fallback for non-SVG browsers -->

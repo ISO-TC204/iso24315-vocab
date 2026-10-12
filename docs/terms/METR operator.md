@@ -14,7 +14,7 @@ Clause: 3.3.4.2
 
 | Class | Description |
 | --- | --- |
-| [translator agent](translator agent.md) | [METR operator](METR operator.md) that interfaces with the [METR regulation system](METR regulation system.md) to enter [electronic rules](electronic rule.md) |
+| [translator agent](translator agent.md) | [METR operator](METR operator.md) that interfaces with the [METR regulation system](METR regulation system.md) to enter [electronic regulations](electronic regulation.md) |
 
 
 ---

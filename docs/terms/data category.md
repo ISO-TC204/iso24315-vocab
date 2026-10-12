@@ -12,7 +12,7 @@ Clause: 3.2.1.3
 
 EXAMPLE: Speed limit [rules](rule.md) for motor vehicles within a specified jurisdictional area (3.3.1.21)
 
-Note 1 to entry: A data category is described by a set of characteristics; the term "rule set" is used to describe the rules that are currently contained in the data category.
+Note 1 to entry: A data category is described by a set of characteristics; the term "rule and regulation set" is used to describe the rules and regulations that are currently contained in the data category.
 
 
 ---

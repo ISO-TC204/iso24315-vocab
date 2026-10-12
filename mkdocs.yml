@@ -7,6 +7,12 @@ nav:
 - TC204 on ISO.org: https://www.iso.org/committee/54706.html
 - TC 204 Home: https://isotc204.org/
 - METR: https://isotc204.org/iso24315/
+- Guides:
+  - Overview: guides/index.md
+  - Naming Conventions: guides/naming-conventions.md
+  - Ontology Formats: guides/ontology-formats.md
+  - Turtle: guides/turtle.md
+  - Website Generation: python/README.md
 - Vocabulary:
   - Home: index.md
   - Alphabetical Listing: terms/concept_registry.md
@@ -40,12 +46,14 @@ nav:
       - peer-sourced data: terms/peer-sourced data.md
       - regulation: terms/regulation.md
       - rule: terms/rule.md
-      - rule order: terms/rule order.md
-      - rule set: terms/rule set.md
+      - traffic regulation order: terms/traffic regulation order.md
+      - rule and regulation set: terms/rule and regulation set.md
       - rules of the road: terms/rules of the road.md
       - supporting data: terms/supporting data.md
       - user-sourced data: terms/user-sourced data.md
       - vehicle-sourced data: terms/vehicle-sourced data.md
+      - rule or regulation: terms/rule or regulation.md
+      - regulatory: terms/regulatory.md
     - Discrepancy State Terms:
       - terms/patterns/Discrepancy State Terms.md
       - confirmed discrepancy: terms/confirmed discrepancy.md
@@ -81,10 +89,11 @@ nav:
       - outdated METR information: terms/outdated METR information.md
     - Rule Representation Terms:
       - terms/patterns/Rule Representation Terms.md
-      - electronic rule: terms/electronic rule.md
+      - electronic regulation: terms/electronic regulation.md
       - legal rule: terms/legal rule.md
-      - METR rule: terms/METR rule.md
-      - physical rule: terms/physical rule.md
+      - METR regulation: terms/METR regulation.md
+      - physical regulation: terms/physical regulation.md
+      - legal regulation: terms/legal regulation.md
     - Rule Announcement Terms:
       - terms/patterns/Rule Announcement Terms.md
       - emergent rule: terms/emergent rule.md
@@ -145,6 +154,7 @@ nav:
       - transport-related user: terms/transport-related user.md
       - user-sourced data provider: terms/user-sourced data provider.md
       - vehicle-sourced data provider: terms/vehicle-sourced data provider.md
+      - legislative body: terms/legislative body.md
     - METR System Terms:
       - terms/patterns/METR System Terms.md
       - central distribution system: terms/central distribution system.md

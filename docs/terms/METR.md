@@ -2,7 +2,7 @@
 
 # METR
 
-collection of [ITS services](https://isotc204.org/iso14812/terms/ITS service/) that provide for the distribution of [electronic rules](electronic rule.md) for the road network in a manner that satisfies [trustworthiness](trustworthiness.md) principles
+collection of [ITS services](https://isotc204.org/iso14812/terms/ITS service/) that provide for the distribution of [electronic regulations](electronic regulation.md) for the road network in a manner that satisfies [trustworthiness](trustworthiness.md) principles
 
 <object type="image/svg+xml" data="../../diagrams/METR.dot.svg">
     <img alt="METR Diagram" src="../../diagrams/METR.dot.png" /> <!-- Fallback for non-SVG browsers -->

@@ -12,7 +12,7 @@ Clause: 3.2.1.6
 
 Alternative preferred term: vehicle code
 
-Note 1 to entry: The highway code includes rules for vehicle operation (e.g., rules of the road), driver licensing, vehicle registration, vehicle inspection, insurance, etc. as well as establishing the legal basis for other rule makers to issue [regulations](regulation.md), [advisories](advisory.md), warnings, and [guidance](guidance.md).
+Note 1 to entry: The highway code includes rules for vehicle operation and other usage of roads (e.g., rules of the road), driver licensing, vehicle registration, vehicle inspection, insurance, etc. as well as establishing the legal basis for other rule makers to issue [regulations](regulation.md), [advisories](advisory.md), warnings, and [guidance](guidance.md).
 
 Note 2 to entry: The term used for the highway code varies by [jurisdictional area](jurisdictional area.md) but is frequently highway code or vehicle code.
 

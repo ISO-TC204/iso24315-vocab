@@ -2,7 +2,7 @@
 
 # guidance
 
-[rule](rule.md) that provides valuable information as established by a regulator
+[regulation](regulation.md) that provides valuable information
 
 <object type="image/svg+xml" data="../../diagrams/guidance.dot.svg">
     <img alt="guidance Diagram" src="../../diagrams/guidance.dot.png" /> <!-- Fallback for non-SVG browsers -->
@@ -16,7 +16,7 @@ Note 1 to entry: Regulators sometimes wish to additional information to travelle
 
 | Property | Constraint |
 | --- | --- |
-| subClassOf | rule |
+| subClassOf | regulation |
 
 
 ---

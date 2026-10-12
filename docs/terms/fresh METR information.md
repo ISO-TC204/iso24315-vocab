@@ -10,7 +10,7 @@
 
 Clause: 3.2.5.1
 
-EXAMPLE: A [rule set](rule set.md) that is downloaded can be designated as being fresh for one week. The data would be considered outdated (3.2.5.3) after the one-week period.
+EXAMPLE: A [rule and regulation set](rule and regulation set.md) that is downloaded can be designated as being fresh for one week. The data would be considered outdated (3.2.5.3) after the one-week period.
 
 Note 1 to entry: Derived from SP-57,SP-94.
 

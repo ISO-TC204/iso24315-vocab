@@ -10,7 +10,7 @@ This page lists all known terms in the METR Vocabulary.
 | [active rule](active rule.md) | [rule](rule.md) that is [implemented](implemented rule.md) and presently in effect |
 | [adapter](adapter.md) | [role](https://isotc204.org/iso14812/terms/role/) that is responsible for interpreting, fusing and adapting data provided by the [receiver](receiver.md) and [supporting data providers](supporting data provider.md) into a format that the [METR user](METR user.md) can support |
 | [adjudicator](adjudicator.md) | [role](https://isotc204.org/iso14812/terms/role/) that is responsible for making formal judgements on disputed matters related to [rules](rule.md) |
-| [advisory](advisory.md) | [rule](rule.md) that provides a safety recommendation as established by a [regulator](regulator.md) |
+| [advisory](advisory.md) | [regulation](regulation.md) that provides a safety recommendation |
 | [ancillary user](ancillary user.md) | [METR user](METR user.md) that is not a [transport-related user](transport-related user.md) |
 | [approved rule](approved rule.md) | [rule](rule.md) that has been approved by a [rule maker](rule maker.md) with a future [inception time](inception time.md) |
 | [authorized actor](authorized actor.md) | [rule implementer](rule implementer.md) that has received permission from a rule maker (3.3.1.24) to enable and disable specific [rules](rule.md) as necessary |
@@ -34,8 +34,8 @@ This page lists all known terms in the METR Vocabulary.
 | [discrepancy reporter](discrepancy reporter.md) | [role](https://isotc204.org/iso14812/terms/role/) that is responsible for reporting variances between [rules](rule.md) previously received via METR and information detected in the field |
 | [dissemination plan](dissemination plan.md) | plan for providing data to user systems |
 | [distributor](distributor.md) | [role](https://isotc204.org/iso14812/terms/role/) that is responsible for gathering [rules](rule.md) from one or more [translators](translator.md) and distributing them to [METR users](METR user.md) via [receivers](receiver.md) and [adapters](adapter.md) |
-| [electronic rule](electronic rule.md) | representation of a [rule](rule.md) in a structured, digital format that can be readily processed by a computer to determine the intent of the rule |
-| [emergent rule](emergent rule.md) | [METR rule](METR rule.md) created and implemented while previously distributed, pre-announced [rule sets](rule set.md) are still fresh (3.2.5.1) |
+| [electronic regulation](electronic regulation.md) | representation of a [rule or regulation](rule or regulation.md) in a structured, digital format that can be readily processed by a computer to determine the intent of the rule or regulation |
+| [emergent rule](emergent rule.md) | [METR regulation](METR regulation.md) created and implemented while previously distributed, pre-announced [rule and regulation sets](rule and regulation set.md) are still fresh (3.2.5.1) |
 | [emergent rule distributor](emergent rule distributor.md) | [distributor](distributor.md) that is responsible for distributing [emergent rules](emergent rule.md) |
 | [enforcement organization](enforcement organization.md) | organization authorized by a [jurisdictional entity](jurisdictional entity.md) to enforce its [rules](rule.md) |
 | [enforcer](enforcer.md) | [role](https://isotc204.org/iso14812/terms/role/) that is authorized to and responsible for compelling compliance with a [rule](rule.md) |
@@ -43,7 +43,7 @@ This page lists all known terms in the METR Vocabulary.
 | [fresh METR information](fresh METR information.md) | [METR information](METR information.md) that has a [freshness period](freshness period.md) that has not expired |
 | [freshness period](freshness period.md) | duration during which an element of [METR information](METR information.md) is considered accurate |
 | [governmental area](governmental area.md) | transport-related, [jurisdictional area](jurisdictional area.md) whose only [jurisdictional entities](jurisdictional entity.md) are governmental entities |
-| [guidance](guidance.md) | [rule](rule.md) that provides valuable information as established by a regulator |
+| [guidance](guidance.md) | [regulation](regulation.md) that provides valuable information |
 | [highway code](highway code.md) | set of legislation that defines general transport-related [rules](rule.md) and assigns specific authorities to [rule makers](rule maker.md) and [enforcers](enforcer.md) |
 | [implemented rule](implemented rule.md) | [rule](rule.md) that has an [inception time](inception time.md) in the past and a [termination time](termination time.md) either undefined or in the future |
 | [inactive rule](inactive rule.md) | [rule](rule.md) that is enacted (3.2.4.3) but not presently in effect |
@@ -58,10 +58,12 @@ This page lists all known terms in the METR Vocabulary.
 | [jurisdictional boundary](jurisdictional boundary.md) | territorial limit associated with a [jurisdictional area](jurisdictional area.md) |
 | [jurisdictional entity](jurisdictional entity.md) | [person](https://isotc204.org/iso14812/terms/person/) or organization who has [jurisdiction](jurisdiction.md) |
 | [jurisdictional vocabulary](jurisdictional vocabulary.md) | listing of key terms used within [rules](rule.md) issued by a [jurisdictional entity](jurisdictional entity.md) along with their associated definitions |
+| [legal regulation](legal regulation.md) | representation of a [regulation](regulation.md) as recorded in official records of the [jurisdictional entity](jurisdictional entity.md) |
 | [legal rule](legal rule.md) | representation of a [rule](rule.md) as recorded in official records of the [jurisdictional entity](jurisdictional entity.md) |
+| [legislative body](legislative body.md) | [rule maker](rule maker.md) appointed by a [jurisdictional entity](jurisdictional entity.md) to establish the [rules of the road](rules of the road.md) for the respective [jurisdictional area](jurisdictional area.md) |
 | [legitimacy](legitimacy.md) | degree to which an IT service has official status |
 | [localized distribution](localized distribution.md) | dissemination of [METR information](METR information.md) using wireless technologies with less than a 1-kilometer range |
-| [METR](METR.md) | collection of [ITS services](https://isotc204.org/iso14812/terms/ITS service/) that provide for the distribution of [electronic rules](electronic rule.md) for the road network in a manner that satisfies [trustworthiness](trustworthiness.md) principles |
+| [METR](METR.md) | collection of [ITS services](https://isotc204.org/iso14812/terms/ITS service/) that provide for the distribution of [electronic regulations](electronic regulation.md) for the road network in a manner that satisfies [trustworthiness](trustworthiness.md) principles |
 | [METR component](METR component.md) | [ITS component](https://isotc204.org/iso14812/terms/ITS component/) designed to assist a [translator](translator.md), [rule verifier](rule verifier.md), [rule signer](rule signer.md), [distributor](distributor.md), [adapter](adapter.md), or [discrepancy handler](discrepancy handler.md) in performing its duties |
 | [METR consumer system](METR consumer system.md) | [ITS component](https://isotc204.org/iso14812/terms/ITS component/) developed to fulfil the data processing responsibilities assigned to the [receiver](receiver.md) and optionally the [discrepancy reporter](discrepancy reporter.md) |
 | [METR discrepancy handling system](METR discrepancy handling system.md) | [ITS component](https://isotc204.org/iso14812/terms/ITS component/) developed to fulfil the data processing responsibilities assigned to the [discrepancy handler](discrepancy handler.md) |
@@ -69,8 +71,8 @@ This page lists all known terms in the METR Vocabulary.
 | [METR environment](METR environment.md) | aggregation of the [METR system of systems](METR system of systems.md), [supporting data providers](supporting data provider.md), and other systems contained in the [METR](METR.md) physical view diagrams |
 | [METR information](METR information.md) | Any information provided by a [METR distribution system](METR distribution system.md) to a [METR consumer system](METR consumer system.md) |
 | [METR operator](METR operator.md) | person that interfaces with a [METR component](METR component.md) to ensure its proper operation |
+| [METR regulation](METR regulation.md) | [electronic regulation](electronic regulation.md) that is produced and distributed in a trustworthy manner |
 | [METR regulation system](METR regulation system.md) | [ITS component](https://isotc204.org/iso14812/terms/ITS component/) developed to fulfil the data processing responsibilities assigned to the [translator](translator.md) |
-| [METR rule](METR rule.md) | [electronic rule](electronic rule.md) that is produced and distributed in a trustworthy manner |
 | [METR system of systems](METR system of systems.md) | [system of systems](system of systems.md) representing the aggregation of all [METR components](METR component.md) currently connected within a network |
 | [METR user](METR user.md) | [role](https://isotc204.org/iso14812/terms/role/) that is responsible for using applicable [rules](rule.md) to fulfil a [need](https://isotc204.org/iso14812/terms/user need/) |
 | [METR user system](METR user system.md) | [ITS component](https://isotc204.org/iso14812/terms/ITS component/) developed to fulfil the data processing responsibilities assigned to the [adapter](adapter.md) |
@@ -82,9 +84,9 @@ This page lists all known terms in the METR Vocabulary.
 | [peer-sourced data](peer-sourced data.md) | [supporting data](supporting data.md) from an external source that is designed to operate when mobile |
 | [peer-sourced data provider](peer-sourced data provider.md) | [supporting data provider](supporting data provider.md) that provides [peer-sourced data](peer-sourced data.md) |
 | [persistent rule](persistent rule.md) | [rule](rule.md) that does not have any expectation of a [termination time](termination time.md) |
-| [physical rule](physical rule.md) | representation of a [rule](rule.md) as presented in the field |
+| [physical regulation](physical regulation.md) | representation of a [rule or regulation](rule or regulation.md) as presented in the field |
 | [posted rule](posted rule.md) | [rule](rule.md) that is [publicized](publicized rule.md) to the those affected using [conventional traffic control devices](conventional traffic control device.md) |
-| [pre-announced rule](pre-announced rule.md) | [METR rule](METR rule.md) distributed through the normal periodic update mechanism |
+| [pre-announced rule](pre-announced rule.md) | [METR regulation](METR regulation.md) distributed through the normal periodic update mechanism |
 | [pre-announced rule distributor](pre-announced rule distributor.md) | [distributor](distributor.md) that is responsible for distributing all [pre-announced rules](pre-announced rule.md) requested by a [METR user](METR user.md) and within the publicized [data categories](data category.md) supported by the distributor |
 | [proposed rule](proposed rule.md) | [rule](rule.md) that is not yet approved by the [rule maker](rule maker.md) |
 | [pubic record](pubic record.md) | information that travellers are expected to know without [posted rules](posted rule.md) |
@@ -93,8 +95,9 @@ This page lists all known terms in the METR Vocabulary.
 | [pushed distribution](pushed distribution.md) | dissemination of [METR information](METR information.md) to a user based on general user registration or as a broadcast to all users within range |
 | [receiver](receiver.md) | [role](https://isotc204.org/iso14812/terms/role/) that is responsible for retrieving, receiving, processing and maintaining a local store of [METR information](METR information.md) |
 | [region](region.md) | territory within which [METR users](METR user.md) expect to operate relatively seamlessly |
-| [regulation](regulation.md) | [rule](rule.md) having the force of law that is established by a [regulator](regulator.md) |
+| [regulation](regulation.md) | provision that defines allowed or recommended behaviour as established by a [regulator](regulator.md) within the respective [jurisdictional area](jurisdictional area.md) |
 | [regulator](regulator.md) | [rule maker](rule maker.md) appointed by a [jurisdictional entity](jurisdictional entity.md) to create and maintain [rules](rule.md) within a defined scope |
+| [regulatory](regulatory.md) | [regulation](regulation.md) that prescribes permitted or required behaviour |
 | [rejected discrepancy](rejected discrepancy.md) | [discrepancy](discrepancy.md) that has been investigated but no change was deemed to be warranted |
 | [relevant rule](relevant rule.md) | [rule](rule.md) applicable to the [METR user](METR user.md) within present circumstances |
 | [reported discrepancy](reported discrepancy.md) | [detected discrepancy](detected discrepancy.md) that has been transmitted to a [discrepancy handler](discrepancy handler.md) |
@@ -102,15 +105,15 @@ This page lists all known terms in the METR Vocabulary.
 | [resilience](resilience.md) | ability to anticipate and adapt to, resist or quickly recover from a potentially disruptive event, whether natural or man-made |
 | [resolved discrepancy](resolved discrepancy.md) | [confirmed discrepancy](confirmed discrepancy.md) that has been fully corrected |
 | [revoked rule](revoked rule.md) | [rule](rule.md) that has been retroactively designated as never being legally enforceable |
-| [rule](rule.md) | information regarding allowed or recommended behaviour as established by a [rule maker](rule maker.md) for its [jurisdictional area](jurisdictional area.md) |
+| [rule](rule.md) | provision within the [rules of the road](rules of the road.md) that defines allowed or recommended behaviour within the respective [jurisdictional area](jurisdictional area.md) |
+| [rule and regulation set](rule and regulation set.md) | aggregation of [rules](rule.md) and [regulations](regulation.md) coupled with shared meta-data |
 | [rule discovery service](rule discovery service.md) | ITS service where one or more [METR user systems](METR user system.md) enhance the accuracy of the [METR distribution system](METR distribution system.md) by reporting [rules](rule.md) observed in the field |
 | [rule implementer](rule implementer.md) | [role](https://isotc204.org/iso14812/terms/role/) that is responsible for enabling a [rule](rule.md) |
-| [rule maker](rule maker.md) | [role](https://isotc204.org/iso14812/terms/role/) that has the responsibility for creating and maintaining rules (3.2.1.9) for a geographic and operational scope as defined by the parent [jurisdictional entity](jurisdictional entity.md) |
-| [rule order](rule order.md) | legally recognized document that officially specifies one or more [rules](rule.md) |
-| [rule set](rule set.md) | aggregation of [rules](rule.md) coupled with shared meta-data |
-| [rule signer](rule signer.md) | [role](https://isotc204.org/iso14812/terms/role/) that reviews and formally confirms the accuracy and integrity of an [electronic rule](electronic rule.md) |
+| [rule maker](rule maker.md) | [role](https://isotc204.org/iso14812/terms/role/) that has the responsibility for creating and maintaining [rules](rule.md) or (regulations](regulation.md) for a geographic and operational scope as defined by the parent [jurisdictional entity](jurisdictional entity.md) |
+| [rule or regulation](rule or regulation.md) | provision that defines allowed or recommended behaviour within the respective [jurisdictional area](jurisdictional area.md) |
+| [rule signer](rule signer.md) | [role](https://isotc204.org/iso14812/terms/role/) that reviews and formally confirms the accuracy and integrity of an [electronic regulation](electronic regulation.md) |
 | [rule verification service](rule verification service.md) | ITS service that independently verifies or questions the accuracy of a submitted [rule](rule.md) in a trustworthy manner |
-| [rule verifier](rule verifier.md) | [role](https://isotc204.org/iso14812/terms/role/) that is responsible for independently verifying that each [electronic rule](electronic rule.md) accurately represents the [legal rule](legal rule.md) |
+| [rule verifier](rule verifier.md) | [role](https://isotc204.org/iso14812/terms/role/) that is responsible for independently verifying that each [electronic regulation](electronic regulation.md) accurately represents the [legal regulation](legal regulation.md) |
 | [rules of the road](rules of the road.md) | component of the [highway code](highway code.md) that specifies foundational [rules](rule.md) for the operation of vehicles |
 | [service registration and discovery service](service registration and discovery service.md) | service to find resources, entities or services based on a specification of the desired target |
 | [stored data provider](stored data provider.md) | [supporting data provider](supporting data provider.md) that is built into the user's [material entity](https://isotc204.org/iso14812/terms/material entity/) hosting the [receiver](receiver.md) and provides [supporting data](supporting data.md) that has been previously configured within the device |
@@ -125,8 +128,9 @@ This page lists all known terms in the METR Vocabulary.
 | [time-based rule](time-based rule.md) | [condition-based rule](condition-based rule.md) where at least one condition is dependent on time |
 | [timeliness](timeliness.md) | degree to which an IT service delivers outcomes within time limits to meet user needs |
 | [traffic control device](traffic control device.md) | physical infrastructure used to convey information to travellers |
+| [traffic regulation order](traffic regulation order.md) | legally recognized document that officially specifies one or more [regulations](regulation.md) |
 | [translator](translator.md) | [role](https://isotc204.org/iso14812/terms/role/) that is responsible for translating [rules](rule.md) defined by [rule maker](rule maker.md) into an electronic format for [METR](METR.md) |
-| [translator agent](translator agent.md) | [METR operator](METR operator.md) that interfaces with the [METR regulation system](METR regulation system.md) to enter [electronic rules](electronic rule.md) |
+| [translator agent](translator agent.md) | [METR operator](METR operator.md) that interfaces with the [METR regulation system](METR regulation system.md) to enter [electronic regulations](electronic regulation.md) |
 | [transparency](transparency.md) | open, comprehensive and understandable presentation of information |
 | [transport facility](transport facility.md) | physical structure or installation, including related site works, serving one or more transport-related purposes |
 | [transport infrastructure](transport infrastructure.md) | system of facilities, equipment and services needed for the operation of a transport network |

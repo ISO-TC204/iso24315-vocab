@@ -2,7 +2,7 @@
 
 # emergent rule
 
-[METR rule](METR rule.md) created and implemented while previously distributed, pre-announced [rule sets](rule set.md) are still fresh (3.2.5.1)
+[METR regulation](METR regulation.md) created and implemented while previously distributed, pre-announced [rule and regulation sets](rule and regulation set.md) are still fresh (3.2.5.1)
 
 <object type="image/svg+xml" data="../../diagrams/emergent rule.dot.svg">
     <img alt="emergent rule Diagram" src="../../diagrams/emergent rule.dot.png" /> <!-- Fallback for non-SVG browsers -->
@@ -10,7 +10,7 @@
 
 Clause: 3.2.7.1
 
-EXAMPLE: Immediately after downloading the current pre-announced rule set, the [jurisdictional entity](jurisdictional entity.md) issues a new [METR rule](METR rule.md) that closes a lane on a road due to a vehicular collision.
+EXAMPLE: Immediately after downloading the current pre-announced rule and regulation set, the [jurisdictional entity](jurisdictional entity.md) issues a new [METR regulation](METR regulation.md) that closes a lane on a road due to a vehicular collision.
 
 Note 1 to entry: Derived from SP-66,SP-133,SP-54.
 
@@ -22,7 +22,7 @@ Note 3 to entry: Emergent rules can include both [temporary](temporary rule.md) 
 
 | Property | Constraint |
 | --- | --- |
-| subClassOf | metrRule |
+| subClassOf | metrRegulation |
 
 
 ---
