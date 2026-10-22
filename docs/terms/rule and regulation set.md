@@ -2,6 +2,8 @@
 
 # rule and regulation set
 
+<div class="draft4-watermark" aria-hidden="true"></div>
+
 aggregation of [rules](rule.md) and [regulations](regulation.md) coupled with shared meta-data
 
 <object type="image/svg+xml" data="../../diagrams/rule and regulation set.dot.svg">
@@ -17,6 +19,8 @@ Admitted term: rule set
 Note 1 to entry: Meta-data can identify the [freshness period](freshness period.md), a unique identifier, and other useful information.
 
 Note 2 to entry: The term "rule and regulation set" can be applied to [legal rules](legal rule.md), [legal regulations](legal regulation.md), [electronic regulations](electronic regulation.md), etc. each defining different sets for its own purposes.
+
+History note: 2026: Revised to align with the updated definitions for [rule](rule.md) and [regulation](regulation.md).
 
 ## Relationships for rule and regulation set
 

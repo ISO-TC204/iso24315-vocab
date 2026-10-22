@@ -2,6 +2,8 @@
 
 # emergent rule
 
+<div class="draft4-watermark" aria-hidden="true"></div>
+
 [METR regulation](METR regulation.md) created and implemented while previously distributed, pre-announced [rule and regulation sets](rule and regulation set.md) are still fresh (3.2.5.1)
 
 <object type="image/svg+xml" data="../../diagrams/emergent rule.dot.svg">

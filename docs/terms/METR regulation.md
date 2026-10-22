@@ -2,6 +2,8 @@
 
 # METR regulation
 
+<div class="draft4-watermark" aria-hidden="true"></div>
+
 [electronic regulation](electronic regulation.md) that is produced and distributed in a trustworthy manner
 
 <object type="image/svg+xml" data="../../diagrams/METR regulation.dot.svg">
@@ -12,12 +14,14 @@ Clause: 3.2.6.3
 
 Note 1 to entry: Digitized images do not meet this definition of electronic.
 
+History note: 2026: Revised to align with the updated definitions for [rule](rule.md) and [regulation](regulation.md).
+
 ## Specializations of METR regulation
 
 | Class | Description |
 | --- | --- |
-| [emergent rule](emergent rule.md) | [METR regulation](METR regulation.md) created and implemented while previously distributed, pre-announced [rule and regulation sets](rule and regulation set.md) are still fresh (3.2.5.1) |
-| [pre-announced rule](pre-announced rule.md) | [METR regulation](METR regulation.md) distributed through the normal periodic update mechanism |
+| [emergent regulation](emergent regulation.md) | [METR regulation](METR regulation.md) created and implemented while previously distributed, pre-announced [rule and regulation sets](rule and regulation set.md) are still [fresh](freshness period.md) |
+| [pre-announced regulation](pre-announced regulation.md) | [METR regulation](METR regulation.md) distributed through the normal periodic update mechanism |
 
 ## Relationships for METR regulation
 

@@ -13,7 +13,7 @@ Clause: 3.1
 - 3.1.5 — [jurisdictional area](../jurisdictional area.md)
 - 3.1.6 — [jurisdictional boundary](../jurisdictional boundary.md)
 - 3.1.7 — [jurisdictional entity](../jurisdictional entity.md)
-- 3.1.8 — [region](../region.md)
+- 3.1.8 — [global region](../global region.md)
 - 3.1.9 — [sub-area](../sub-area.md)
 
 ---

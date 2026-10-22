@@ -2,6 +2,8 @@
 
 # regulation
 
+<div class="draft4-watermark" aria-hidden="true"></div>
+
 provision that defines allowed or recommended behaviour as established by a [regulator](regulator.md) within the respective [jurisdictional area](jurisdictional area.md)
 
 <object type="image/svg+xml" data="../../diagrams/regulation.dot.svg">
@@ -13,6 +15,8 @@ Clause: 3.2.1.12
 Admitted term: traffic regulation
 
 Note 1 to entry: A regulation can be [regulatory](regulatory.md), [advisory](advisory.md), or [guidance](guidance.md).
+
+History note: 2026: Revised to no longer be a subset of a "rule".
 
 ## Specializations of regulation
 

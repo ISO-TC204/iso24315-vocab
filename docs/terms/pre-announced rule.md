@@ -2,6 +2,8 @@
 
 # pre-announced rule
 
+<div class="draft4-watermark" aria-hidden="true"></div>
+
 [METR regulation](METR regulation.md) distributed through the normal periodic update mechanism
 
 <object type="image/svg+xml" data="../../diagrams/pre-announced rule.dot.svg">

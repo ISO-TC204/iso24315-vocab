@@ -6,8 +6,8 @@ Clause: 3.2.7
 
 ## Terms
 
-- 3.2.7.1 — [emergent rule](../emergent rule.md)
-- 3.2.7.2 — [pre-announced rule](../pre-announced rule.md)
+- 3.2.7.1 — [emergent regulation](../emergent regulation.md)
+- 3.2.7.2 — [pre-announced regulation](../pre-announced regulation.md)
 
 ---
 

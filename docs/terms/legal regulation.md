@@ -2,6 +2,8 @@
 
 # legal regulation
 
+<div class="draft4-watermark" aria-hidden="true"></div>
+
 representation of a [regulation](regulation.md) as recorded in official records of the [jurisdictional entity](jurisdictional entity.md)
 
 <object type="image/svg+xml" data="../../diagrams/legal regulation.dot.svg">
@@ -9,6 +11,8 @@ representation of a [regulation](regulation.md) as recorded in official records 
 </object>
 
 Clause: 3.2.6.5
+
+History note: 2026: Added to align with the updated definitions for [rule](rule.md) and [regulation](regulation.md).
 
 ## Relationships for legal regulation
 

@@ -35,13 +35,14 @@ This page lists all known terms in the METR Vocabulary.
 | [dissemination plan](dissemination plan.md) | plan for providing data to user systems |
 | [distributor](distributor.md) | [role](https://isotc204.org/iso14812/terms/role/) that is responsible for gathering [rules](rule.md) from one or more [translators](translator.md) and distributing them to [METR users](METR user.md) via [receivers](receiver.md) and [adapters](adapter.md) |
 | [electronic regulation](electronic regulation.md) | representation of a [rule or regulation](rule or regulation.md) in a structured, digital format that can be readily processed by a computer to determine the intent of the rule or regulation |
-| [emergent rule](emergent rule.md) | [METR regulation](METR regulation.md) created and implemented while previously distributed, pre-announced [rule and regulation sets](rule and regulation set.md) are still fresh (3.2.5.1) |
+| [emergent regulation](emergent regulation.md) | [METR regulation](METR regulation.md) created and implemented while previously distributed, pre-announced [rule and regulation sets](rule and regulation set.md) are still [fresh](freshness period.md) |
 | [emergent rule distributor](emergent rule distributor.md) | [distributor](distributor.md) that is responsible for distributing [emergent rules](emergent rule.md) |
 | [enforcement organization](enforcement organization.md) | organization authorized by a [jurisdictional entity](jurisdictional entity.md) to enforce its [rules](rule.md) |
 | [enforcer](enforcer.md) | [role](https://isotc204.org/iso14812/terms/role/) that is authorized to and responsible for compelling compliance with a [rule](rule.md) |
 | [field distribution system](field distribution system.md) | [METR distribution system](METR distribution system.md) where the provisioning of data is from a [field](https://isotc204.org/iso14812/terms/field system/) or [vehicle system](https://isotc204.org/iso14812/terms/vehicle system/) |
 | [fresh METR information](fresh METR information.md) | [METR information](METR information.md) that has a [freshness period](freshness period.md) that has not expired |
 | [freshness period](freshness period.md) | duration during which an element of [METR information](METR information.md) is considered accurate |
+| [global region](global region.md) | territory within which [METR users](METR user.md) expect to operate relatively seamlessly |
 | [governmental area](governmental area.md) | transport-related, [jurisdictional area](jurisdictional area.md) whose only [jurisdictional entities](jurisdictional entity.md) are governmental entities |
 | [guidance](guidance.md) | [regulation](regulation.md) that provides valuable information |
 | [highway code](highway code.md) | set of legislation that defines general transport-related [rules](rule.md) and assigns specific authorities to [rule makers](rule maker.md) and [enforcers](enforcer.md) |
@@ -86,7 +87,7 @@ This page lists all known terms in the METR Vocabulary.
 | [persistent rule](persistent rule.md) | [rule](rule.md) that does not have any expectation of a [termination time](termination time.md) |
 | [physical regulation](physical regulation.md) | representation of a [rule or regulation](rule or regulation.md) as presented in the field |
 | [posted rule](posted rule.md) | [rule](rule.md) that is [publicized](publicized rule.md) to the those affected using [conventional traffic control devices](conventional traffic control device.md) |
-| [pre-announced rule](pre-announced rule.md) | [METR regulation](METR regulation.md) distributed through the normal periodic update mechanism |
+| [pre-announced regulation](pre-announced regulation.md) | [METR regulation](METR regulation.md) distributed through the normal periodic update mechanism |
 | [pre-announced rule distributor](pre-announced rule distributor.md) | [distributor](distributor.md) that is responsible for distributing all [pre-announced rules](pre-announced rule.md) requested by a [METR user](METR user.md) and within the publicized [data categories](data category.md) supported by the distributor |
 | [proposed rule](proposed rule.md) | [rule](rule.md) that is not yet approved by the [rule maker](rule maker.md) |
 | [pubic record](pubic record.md) | information that travellers are expected to know without [posted rules](posted rule.md) |
@@ -94,7 +95,6 @@ This page lists all known terms in the METR Vocabulary.
 | [pulled distribution](pulled distribution.md) | dissemination of [METR information](METR information.md) to a user based on a request or subscription |
 | [pushed distribution](pushed distribution.md) | dissemination of [METR information](METR information.md) to a user based on general user registration or as a broadcast to all users within range |
 | [receiver](receiver.md) | [role](https://isotc204.org/iso14812/terms/role/) that is responsible for retrieving, receiving, processing and maintaining a local store of [METR information](METR information.md) |
-| [region](region.md) | territory within which [METR users](METR user.md) expect to operate relatively seamlessly |
 | [regulation](regulation.md) | provision that defines allowed or recommended behaviour as established by a [regulator](regulator.md) within the respective [jurisdictional area](jurisdictional area.md) |
 | [regulator](regulator.md) | [rule maker](rule maker.md) appointed by a [jurisdictional entity](jurisdictional entity.md) to create and maintain [rules](rule.md) within a defined scope |
 | [regulatory](regulatory.md) | [regulation](regulation.md) that prescribes permitted or required behaviour |

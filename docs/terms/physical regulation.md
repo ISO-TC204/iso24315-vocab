@@ -2,6 +2,8 @@
 
 # physical regulation
 
+<div class="draft4-watermark" aria-hidden="true"></div>
+
 representation of a [rule or regulation](rule or regulation.md) as presented in the field
 
 <object type="image/svg+xml" data="../../diagrams/physical regulation.dot.svg">
@@ -11,6 +13,8 @@ representation of a [rule or regulation](rule or regulation.md) as presented in 
 Clause: 3.2.6.4
 
 EXAMPLE: The speed limit as displayed on a speed limit sign
+
+History note: 2026: Revised to align with the updated definitions for [rule](rule.md) and [regulation](regulation.md).
 
 ## Relationships for physical regulation
 

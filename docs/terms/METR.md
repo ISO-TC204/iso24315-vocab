@@ -2,6 +2,8 @@
 
 # METR
 
+<div class="draft4-watermark" aria-hidden="true"></div>
+
 collection of [ITS services](https://isotc204.org/iso14812/terms/ITS service/) that provide for the distribution of [electronic regulations](electronic regulation.md) for the road network in a manner that satisfies [trustworthiness](trustworthiness.md) principles
 
 <object type="image/svg+xml" data="../../diagrams/METR.dot.svg">
@@ -11,6 +13,8 @@ collection of [ITS services](https://isotc204.org/iso14812/terms/ITS service/) t
 Clause: 3.3.2.3
 
 Alternative preferred term: management of electronic traffic regulations
+
+History note: 2026: Revised to align with the updated definitions for [rule](rule.md) and [regulation](regulation.md).
 
 
 ---

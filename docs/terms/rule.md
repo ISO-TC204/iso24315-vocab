@@ -2,6 +2,8 @@
 
 # rule
 
+<div class="draft4-watermark" aria-hidden="true"></div>
+
 provision within the [rules of the road](rules of the road.md) that defines allowed or recommended behaviour within the respective [jurisdictional area](jurisdictional area.md)
 
 <object type="image/svg+xml" data="../../diagrams/rule.dot.svg">
@@ -9,6 +11,8 @@ provision within the [rules of the road](rules of the road.md) that defines allo
 </object>
 
 Clause: 3.2.1.13
+
+History note: 2026: Revised to be limited to provisions within the rules of the road.
 
 ## Specializations of rule
 

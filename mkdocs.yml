@@ -27,7 +27,7 @@ nav:
       - jurisdictional area: terms/jurisdictional area.md
       - jurisdictional boundary: terms/jurisdictional boundary.md
       - jurisdictional entity: terms/jurisdictional entity.md
-      - region: terms/region.md
+      - global region: terms/global region.md
       - sub-area: terms/sub-area.md
   - Data Terms:
     - terms/groups/Data Terms.md
@@ -96,8 +96,8 @@ nav:
       - legal regulation: terms/legal regulation.md
     - Rule Announcement Terms:
       - terms/patterns/Rule Announcement Terms.md
-      - emergent rule: terms/emergent rule.md
-      - pre-announced rule: terms/pre-announced rule.md
+      - emergent regulation: terms/emergent regulation.md
+      - pre-announced regulation: terms/pre-announced regulation.md
     - Rule Projected Longevity Terms:
       - terms/patterns/Rule Projected Longevity Terms.md
       - persistent rule: terms/persistent rule.md

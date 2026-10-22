@@ -2,6 +2,8 @@
 
 # rule or regulation
 
+<div class="draft4-watermark" aria-hidden="true"></div>
+
 provision that defines allowed or recommended behaviour within the respective [jurisdictional area](jurisdictional area.md)
 
 <object type="image/svg+xml" data="../../diagrams/rule or regulation.dot.svg">
@@ -20,6 +22,8 @@ Note 2 to entry: The primary focus of [METR](METR.md) is to provide rules and re
 
 Note 3 to entry: The plural form is "rules and regulations". The abbreviation "R&R" means "rule or regulation" while "R&Rs" means "rules and regulations".
 
+History note: 2026: Revised to align with the updated definitions for [rule](rule.md) and [regulation](regulation.md).
+
 ## Specializations of rule or regulation
 
 | Class | Description |
@@ -29,7 +33,7 @@ Note 3 to entry: The plural form is "rules and regulations". The abbreviation "R
 | [approved rule](approved rule.md) | [rule](rule.md) that has been approved by a [rule maker](rule maker.md) with a future [inception time](inception time.md) |
 | [condition-based rule](condition-based rule.md) | [rule](rule.md) that becomes [active](active rule.md) based on explicitly stated conditions |
 | [electronic regulation](electronic regulation.md) | representation of a [rule or regulation](rule or regulation.md) in a structured, digital format that can be readily processed by a computer to determine the intent of the rule or regulation |
-| [emergent rule](emergent rule.md) | [METR regulation](METR regulation.md) created and implemented while previously distributed, pre-announced [rule and regulation sets](rule and regulation set.md) are still fresh (3.2.5.1) |
+| [emergent regulation](emergent regulation.md) | [METR regulation](METR regulation.md) created and implemented while previously distributed, pre-announced [rule and regulation sets](rule and regulation set.md) are still [fresh](freshness period.md) |
 | [guidance](guidance.md) | [regulation](regulation.md) that provides valuable information |
 | [highway code](highway code.md) | set of legislation that defines general transport-related [rules](rule.md) and assigns specific authorities to [rule makers](rule maker.md) and [enforcers](enforcer.md) |
 | [implemented rule](implemented rule.md) | [rule](rule.md) that has an [inception time](inception time.md) in the past and a [termination time](termination time.md) either undefined or in the future |
@@ -43,7 +47,7 @@ Note 3 to entry: The plural form is "rules and regulations". The abbreviation "R
 | [persistent rule](persistent rule.md) | [rule](rule.md) that does not have any expectation of a [termination time](termination time.md) |
 | [physical regulation](physical regulation.md) | representation of a [rule or regulation](rule or regulation.md) as presented in the field |
 | [posted rule](posted rule.md) | [rule](rule.md) that is [publicized](publicized rule.md) to the those affected using [conventional traffic control devices](conventional traffic control device.md) |
-| [pre-announced rule](pre-announced rule.md) | [METR regulation](METR regulation.md) distributed through the normal periodic update mechanism |
+| [pre-announced regulation](pre-announced regulation.md) | [METR regulation](METR regulation.md) distributed through the normal periodic update mechanism |
 | [proposed rule](proposed rule.md) | [rule](rule.md) that is not yet approved by the [rule maker](rule maker.md) |
 | [pubic record](pubic record.md) | information that travellers are expected to know without [posted rules](posted rule.md) |
 | [publicized rule](publicized rule.md) | [rule](rule.md) that is announced to the public |
