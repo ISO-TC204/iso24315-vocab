@@ -2,6 +2,8 @@
 
 # data category
 
+<div class="draft4-watermark" aria-hidden="true"></div>
+
 class of data that is described by a set of specified characteristics
 
 <object type="image/svg+xml" data="../../diagrams/data category.dot.svg">
@@ -10,9 +12,11 @@ class of data that is described by a set of specified characteristics
 
 Clause: 3.2.1.3
 
-EXAMPLE: Speed limit [rules](rule.md) for motor vehicles within a specified jurisdictional area (3.3.1.21)
+EXAMPLE: Speed limit [regulations](regulation.md) for motor vehicles within a specified [jurisdictional area](jurisdictional area.md).
 
-Note 1 to entry: A data category is described by a set of characteristics; the term "rule set" is used to describe the rules that are currently contained in the data category.
+Note 1 to entry: A data category is described by a set of characteristics; the term "rule and regulation set" is used to describe the rules and regulations that are currently contained in the data category.
+
+History note: 2026: Revised to align with the updated definitions for [rule](rule.md) and [regulation](regulation.md).
 
 
 ---

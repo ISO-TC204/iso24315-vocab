@@ -2,7 +2,9 @@
 
 # rule maker
 
-[role](https://isotc204.org/iso14812/terms/role/) that has the responsibility for creating and maintaining rules (3.2.1.9) for a geographic and operational scope as defined by the parent [jurisdictional entity](jurisdictional entity.md)
+<div class="draft4-watermark" aria-hidden="true"></div>
+
+[role](https://isotc204.org/iso14812/terms/role/) that has the responsibility for creating and maintaining [rules](rule.md) or (regulations](regulation.md) for a geographic and operational scope as defined by the parent [jurisdictional entity](jurisdictional entity.md)
 
 <object type="image/svg+xml" data="../../diagrams/rule maker.dot.svg">
     <img alt="rule maker Diagram" src="../../diagrams/rule maker.dot.png" /> <!-- Fallback for non-SVG browsers -->
@@ -16,11 +18,14 @@ Note 2 to entry: A simple jurisdictional entity can have a single entity that fu
 
 Note 3 to entry: A complex jurisdictional entity can designate multiple rule makers, each assigned for different areas, different purposes, or both. For example, the State of New York can adopt a [highway code](highway code.md) that assigns its department of transportation the responsibility to create and maintain rules for motorways and allows local jurisdictions to create and maintain additional rules. Based on its authority, New York City can assign its department of transportation the responsibility to create and maintain static and temporary stop sign locations throughout the city, assign each precinct of its police department with the authority to create and maintain temporary stop sign locations only within their respective precincts, and assign land owners the responsibility to designate parking spaces for travellers with disabilities.
 
+History note: 2026: Revised to align with the updated definitions for [rule](rule.md) and [regulation](regulation.md).
+
 ## Specializations of rule maker
 
 | Class | Description |
 | --- | --- |
 | [issuing authority](issuing authority.md) | [rule maker](rule maker.md) that established a specific [rule](rule.md) |
+| [legislative body](legislative body.md) | [rule maker](rule maker.md) appointed by a [jurisdictional entity](jurisdictional entity.md) to establish the [rules of the road](rules of the road.md) for the respective [jurisdictional area](jurisdictional area.md) |
 | [regulator](regulator.md) | [rule maker](rule maker.md) appointed by a [jurisdictional entity](jurisdictional entity.md) to create and maintain [rules](rule.md) within a defined scope |
 
 

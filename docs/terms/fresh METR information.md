@@ -2,6 +2,8 @@
 
 # fresh METR information
 
+<div class="draft4-watermark" aria-hidden="true"></div>
+
 [METR information](METR information.md) that has a [freshness period](freshness period.md) that has not expired
 
 <object type="image/svg+xml" data="../../diagrams/fresh METR information.dot.svg">
@@ -10,11 +12,13 @@
 
 Clause: 3.2.5.1
 
-EXAMPLE: A [rule set](rule set.md) that is downloaded can be designated as being fresh for one week. The data would be considered outdated (3.2.5.3) after the one-week period.
+EXAMPLE: A [rule and regulation set](rule and regulation set.md) that is downloaded can be designated as being fresh for one week. The data would be considered [outdated](outdated METR information.md) after the one-week period.
 
 Note 1 to entry: Derived from SP-57,SP-94.
 
-Note 2 to entry: [Emergent rules](emergent rule.md) can impact how fresh rules are interpreted, including overriding them.
+Note 2 to entry: [Emergent regulations](emergent regulation.md) can impact how fresh electronic regulations are interpreted, including overriding them.
+
+History note: 2026: Revised to align with the updated definitions for [rule](rule.md) and [regulation](regulation.md).
 
 ## Relationships for fresh METR information
 

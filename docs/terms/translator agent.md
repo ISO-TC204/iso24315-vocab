@@ -2,13 +2,17 @@
 
 # translator agent
 
-[METR operator](METR operator.md) that interfaces with the [METR regulation system](METR regulation system.md) to enter [electronic rules](electronic rule.md)
+<div class="draft4-watermark" aria-hidden="true"></div>
+
+[METR operator](METR operator.md) that interfaces with the [METR regulation system](METR regulation system.md) to enter [electronic regulations](electronic regulation.md)
 
 <object type="image/svg+xml" data="../../diagrams/translator agent.dot.svg">
     <img alt="translator agent Diagram" src="../../diagrams/translator agent.dot.png" /> <!-- Fallback for non-SVG browsers -->
 </object>
 
 Clause: 3.3.4.3
+
+History note: 2026: Revised to align with the updated definitions for [rule](rule.md) and [regulation](regulation.md).
 
 ## Relationships for translator agent
 

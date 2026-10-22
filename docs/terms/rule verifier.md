@@ -2,13 +2,17 @@
 
 # rule verifier
 
-[role](https://isotc204.org/iso14812/terms/role/) that is responsible for independently verifying that each [electronic rule](electronic rule.md) accurately represents the [legal rule](legal rule.md)
+<div class="draft4-watermark" aria-hidden="true"></div>
+
+[role](https://isotc204.org/iso14812/terms/role/) that is responsible for independently verifying that each [electronic regulation](electronic regulation.md) accurately represents the [legal regulation](legal regulation.md)
 
 <object type="image/svg+xml" data="../../diagrams/rule verifier.dot.svg">
     <img alt="rule verifier Diagram" src="../../diagrams/rule verifier.dot.png" /> <!-- Fallback for non-SVG browsers -->
 </object>
 
 Clause: 3.3.1.25
+
+History note: 2026: Revised to align with the updated definitions for [rule](rule.md) and [regulation](regulation.md).
 
 
 ---

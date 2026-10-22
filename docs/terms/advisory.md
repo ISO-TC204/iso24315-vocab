@@ -2,7 +2,9 @@
 
 # advisory
 
-[rule](rule.md) that provides a safety recommendation as established by a [regulator](regulator.md)
+<div class="draft4-watermark" aria-hidden="true"></div>
+
+[regulation](regulation.md) that provides a safety recommendation
 
 <object type="image/svg+xml" data="../../diagrams/advisory.dot.svg">
     <img alt="advisory Diagram" src="../../diagrams/advisory.dot.png" /> <!-- Fallback for non-SVG browsers -->
@@ -12,11 +14,13 @@ Clause: 3.2.1.1
 
 Note 1 to entry: While not having the full force of law, violating an advisory can have legal implications, especially in the case of vehicular collisions.
 
+History note: 2026: Revised to align with the updated definitions for [rule](rule.md) and [regulation](regulation.md).
+
 ## Relationships for advisory
 
 | Property | Constraint |
 | --- | --- |
-| subClassOf | rule |
+| subClassOf | regulation |
 
 
 ---

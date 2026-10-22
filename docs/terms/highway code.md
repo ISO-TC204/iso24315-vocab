@@ -2,6 +2,8 @@
 
 # highway code
 
+<div class="draft4-watermark" aria-hidden="true"></div>
+
 set of legislation that defines general transport-related [rules](rule.md) and assigns specific authorities to [rule makers](rule maker.md) and [enforcers](enforcer.md)
 
 <object type="image/svg+xml" data="../../diagrams/highway code.dot.svg">
@@ -12,9 +14,11 @@ Clause: 3.2.1.6
 
 Alternative preferred term: vehicle code
 
-Note 1 to entry: The highway code includes rules for vehicle operation (e.g., rules of the road), driver licensing, vehicle registration, vehicle inspection, insurance, etc. as well as establishing the legal basis for other rule makers to issue [regulations](regulation.md), [advisories](advisory.md), warnings, and [guidance](guidance.md).
+Note 1 to entry: The highway code includes rules for vehicle operation and other usage of roads (e.g., rules of the road), driver licensing, vehicle registration, vehicle inspection, insurance, etc. as well as establishing the legal basis for other rule makers to issue [regulations](regulation.md), [advisories](advisory.md), warnings, and [guidance](guidance.md).
 
-Note 2 to entry: The term used for the highway code varies by [jurisdictional area](jurisdictional area.md) but is frequently highway code or vehicle code.
+Note 2 to entry: The term used for the highway code varies by [jurisdictional area](jurisdictional area.md) but is frequently highway code, vehicle code, or similar. In fact, the code can be divided into multiple parts, each with its own name and purpose.
+
+History note: 2026: Revised to align with the updated definitions for [rule](rule.md) and [regulation](regulation.md).
 
 ## Specializations of highway code
 

@@ -19,12 +19,14 @@ Clause: 3.2.1
 - 3.2.1.11 — [peer-sourced data](../peer-sourced data.md)
 - 3.2.1.12 — [regulation](../regulation.md)
 - 3.2.1.13 — [rule](../rule.md)
-- 3.2.1.14 — [rule order](../rule order.md)
-- 3.2.1.15 — [rule set](../rule set.md)
+- 3.2.1.14 — [traffic regulation order](../traffic regulation order.md)
+- 3.2.1.15 — [rule and regulation set](../rule and regulation set.md)
 - 3.2.1.16 — [rules of the road](../rules of the road.md)
 - 3.2.1.17 — [supporting data](../supporting data.md)
 - 3.2.1.18 — [user-sourced data](../user-sourced data.md)
 - 3.2.1.19 — [vehicle-sourced data](../vehicle-sourced data.md)
+- 3.2.1.20 — [rule or regulation](../rule or regulation.md)
+- 3.2.1.21 — [regulatory](../regulatory.md)
 
 ---
 
